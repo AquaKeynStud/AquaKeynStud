@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://badge.mediaplus.ma/darkblue/arocca?1337Badge=off&UM6P=off
+[![arocca's 42 stats](https://badge.mediaplus.ma/darkblue/arocca?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
